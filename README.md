@@ -6,4 +6,11 @@
 
 ## Presentation
 
-Hello World! My name is Fabrício Costa, I'm a Computer and Electrical Engineer at ICT-UNIFESP, and here you'll find many projects and codes that I've developed or have an interest in.
+Hello World! My name is Fabrício Costa, I am a researcher, graduated in Computer and Electrical Engineer, master in Computer Science, both from ICT-UNIFESP. Here, you can find many projects and codes that I have developed or am interested in.
+
+I love working with:
+- Mobile Robots (UAVs, Holonomic Robots, ...)
+- Digital Image Processing & Computer Vision
+- Embedded Systems (FPGA, Arduino, Raspberry Pi)
+- Data Science (Statistical Modeling, Artificial Intelligence, Machine Learning, ...)
+- 

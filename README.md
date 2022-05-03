@@ -13,4 +13,3 @@ I love working with:
 - Digital Image Processing & Computer Vision
 - Embedded Systems (FPGA, Arduino, Raspberry Pi)
 - Data Science (Statistical Modeling, Artificial Intelligence, Machine Learning, ...)
-- 

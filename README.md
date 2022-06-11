@@ -8,7 +8,7 @@
 
 Hello World!
 
-My name is Fabrício Costa, I am a researcher and developer, graduated in Computer and Electrical Engineer, master in Computer Science, both from ICT-UNIFESP. Here, you can find many projects and codes that I have developed or am interested in.
+My name is Fabrício Costa, I'm a researcher and developer, graduated in Computer and Electrical Engineer, master in Computer Science, both from ICT-UNIFESP. Here, you can find many projects and codes that I have developed or am interested in.
 
 I love working with:
 - Mobile Robots (UAVs, Holonomic Robots, ...)
